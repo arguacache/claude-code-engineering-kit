@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "inkwell-inventory": {
+      "command": "python3",
+      "args": ["mcp/inventory-server/server.py"]
+    }
+  }
+}
